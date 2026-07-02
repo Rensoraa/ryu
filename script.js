@@ -1,3 +1,4 @@
+
 (function () {
   const DURATION = 5000; // ms
   const percentEl = document.getElementById('percentValue');
@@ -91,3 +92,5 @@
         console.error(err);
     }
 })();
+
+console.log('hello world');
